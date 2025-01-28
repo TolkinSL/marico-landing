@@ -54,6 +54,11 @@
   background-color: #306ef7;
 }
 
+.buttonLogin:active {
+  color: #fff;
+  background-color: #5c89d6;
+}
+
 .buttonLogin_active {
   color: #3c82f4;
 }
