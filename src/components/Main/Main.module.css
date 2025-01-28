@@ -14,3 +14,9 @@
   font-weight: 700;
   line-height: 168px;
 }
+
+.twoButton {
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+}
