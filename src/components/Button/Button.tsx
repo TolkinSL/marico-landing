@@ -13,7 +13,6 @@ interface ButtonProps {
   children: React.ReactNode;
 }
 export default function Button(props: ButtonProps) {
-  // const { type, size, children } = props;
   const { type, size, children } = props;
 
   const buttonBorder = cn(styles.button, {
