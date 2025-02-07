@@ -1,0 +1,10 @@
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 16px;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 56px;
+}

@@ -1,0 +1,113 @@
+.button {
+  box-sizing: border-box;
+  display: flex;
+  width: 120px;
+  height: 56px;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  color: #707070;
+  background-color: #000;
+  border: 2px solid #707070;
+  outline: none;
+  transition: background-color 0.2s;
+}
+
+.buttonPrimary {
+  color: #fff;
+  background-color: #326cf9;
+  border: 2px solid #326cf9;
+}
+
+.buttonPrimary:hover {
+  color: #fff;
+  background-color: #5c89d6;
+  border: 2px solid #5c89d6;
+}
+
+.buttonPrimary:active {
+  color: #fff;
+  background-color: #326cf9;
+  border: 2px solid #326cf9;
+}
+
+.buttonSecondary {
+  color: #707070;
+  background-color: #000;
+  border: 2px solid #707070;
+}
+
+.buttonSecondary:hover {
+  color: #fff;
+  background-color: #000;
+  border: 2px solid #707070;
+}
+
+.buttonSecondary:active {
+  color: #fff;
+  background-color: #707070;
+  border: 2px solid #707070;
+}
+
+.buttonSocial {
+  color: #fff;
+  background-color: #000;
+  border: 2px solid #fff;
+}
+
+.buttonSocial:hover {
+  background-color: #1a1a1a;
+}
+
+.buttonSocial:active {
+  background-color: #707070;
+}
+
+.buttonPrice {
+  color: #fff;
+  background-color: #131313;
+  border: 2px solid #4681e7;
+}
+
+.buttonPrice:hover {
+  color: #fff;
+  background-color: #5c89d6;
+  border: 2px solid #5c89d6;
+}
+
+.buttonPrice:active {
+  color: #fff;
+  background-color: #326cf9;
+  border: 2px solid #326cf9;
+}
+
+.buttonPriceSelected {
+  color: #3c82f4;
+  background-color: #fff;
+  border: 2px solid #fff;
+}
+
+.buttonPriceSelected:hover {
+  color: #fff;
+  background-color: #5c89d6;
+  border: 2px solid #5c89d6;
+}
+
+.buttonPriceSelected:active {
+  color: #fff;
+  background-color: #326cf9;
+  border: 2px solid #fff;
+}
+
+.size_313 {
+  width: 313px;
+  height: 76px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}

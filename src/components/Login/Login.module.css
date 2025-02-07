@@ -1,0 +1,26 @@
+.main {
+  margin: 0 auto;
+  max-width: 1520px;
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.caption {
+  margin: 0;
+  padding: 0;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 112px;
+}
+
+.description {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+}
